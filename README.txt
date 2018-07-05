@@ -14,6 +14,8 @@ Step 3
 Download the Visual Studio project from
 
 https://adbrokergrafanastorage.blob.core.windows.net/grafanasetup/GrafanaAutoSetup.zip
+or
+https://github.com/abhinavreddy98/Azure-Grafana-Auto-Setup/blob/master/GrafanaAutoSetup(source-github).zip
 
 Open the project file, go to project manager, right click on the project  and press deploy.
 Sign in with your microsoft alias and select your new resource group. 
