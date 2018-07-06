@@ -51,7 +51,7 @@ http_port = $2
 
 # The full public facing url you use in browser, used for redirects and emails
 # If you use reverse proxy and sub path specify full url (with sub path)
-root_url = $3
+root_url = http://$3:$2
 
 # Log web requests
 router_logging = true
